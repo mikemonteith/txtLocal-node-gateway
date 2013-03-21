@@ -1,0 +1,22 @@
+{
+  "name": "txtlocal",
+  "version": "0.0.1",
+  "description": "Node.js implementation of txtlocal.co.uk sms sending",
+  "main": "lib/txtlocal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Willis <mwillis.fb@googlemail.com>",
+  "repository": {
+    "url": "git://github.com/markwillis82/ipFunctions.git"
+  },
+  "keywords": [
+    "txtlocal",
+    "sms",
+    "smsgateway"
+  ],
+  "licence": "MIT",
+  "dependencies": {
+    "request": "~2.16.6"
+  }
+}
