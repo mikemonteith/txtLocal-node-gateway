@@ -18,7 +18,8 @@ var opts = {
 
 sms.sendSMS(opts, function(err,res) {
 	console.log(err,res);
-});```
+});
+```
 
 install
 =======
